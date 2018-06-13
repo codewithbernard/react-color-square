@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codewithbernard/react-color-square.git"
+  },
   "peerDependencies": {
     "react": "^16.4.0"
   },
