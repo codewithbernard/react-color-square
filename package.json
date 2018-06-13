@@ -11,8 +11,7 @@
     "build": "webpack"
   },
   "author": {
-    "name": "codewithbernard",
-    "email": "bado.bernard94@gmail.com"
+    "name": "codewithbernard"
   },
   "license": "ISC",
   "dependencies": {
