@@ -12,7 +12,7 @@ First import this component where you want to use it
 
 Then just renders it
 
-`<ReactColorSqaure />`
+`<ReactColorSquare />`
 
 ### Props
 
